@@ -20,14 +20,14 @@ Margem Operacional (%) = (Lucro Operacional / Faturamento Mensal) * 100
 O **Percentual de Impostos sobre o Faturamento** é uma métrica que indica a carga tributária que uma empresa enfrenta em relação ao seu faturamento total. Essa métrica é importante para entender a eficiência fiscal da empresa e como os impostos impactam sua rentabilidade.
 **Fórmula**:
 ```text
-Percentual de Impostos (%) = (Impostos / Faturamento Mensal) * 100
+Percentual de Impostos (%) = (Impostos Pagos / Faturamento Mensal) * 100
 ```
 
 ### 3. **Rentabilidade**
 A **Rentabilidade** é uma métrica que mede o retorno financeiro de um investimento ou de uma empresa em relação ao seu custo. Essa métrica é fundamental para avaliar a eficiência de uma empresa em gerar lucros a partir de seus ativos e investimentos. A Rentabilidade é calculada dividindo o Lucro Líquido pelo Patrimônio Líquido e multiplicando o resultado por 100 para expressá-lo como uma porcentagem.
 **Fórmula**:
 ```text
-Rentabilidade (%) = (Lucro Líquido / Patrimônio Líquido) * 100
+Rentabilidade Líquida  (%) = ((Lucro Operacional - Impostos Pagos) / Faturamento Mensal) * 100
 ```
 
 ## Explicação
